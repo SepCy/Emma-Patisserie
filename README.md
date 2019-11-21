@@ -3,6 +3,6 @@ Bakery website
 
 ## Comment intégrer
 
-1. Télecharger ou cloner le projet
+1. Télécharger ou cloner le projet
 2. Extraire le fichier dans votre repertoire ....../wordpress/themes
 3. Activer le thème et modifier
