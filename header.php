@@ -52,15 +52,6 @@
 
             </div>
         </nav>
-        <div id="accueil">
-            <div class="title" data-aos="zoom-in">
-                <h3 class="welcome-text">Bienvenue chez mon <br>
-                    Emma
-                </h3>
-                <h5 class="slogan mt-3">L'art du beau et du bon</h5>
-                <a href="#" class="btn btn-outline-info mt-3">Consulter</a>
-            </div>
-        </div>
-    </header>
 
-    <!-- End Header Area -->
+
+        <!-- End Header Area -->
